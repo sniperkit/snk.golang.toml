@@ -11,7 +11,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/BurntSushi/toml"
+	// internal - core
+	"github.com/sniperkit/snk.golang.toml/pkg/toml"
 )
 
 func init() {

@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/BurntSushi/toml"
+	// internal - core
+	"github.com/sniperkit/snk.golang.toml/pkg/toml"
 )
 
 type tomlConfig struct {

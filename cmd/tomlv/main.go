@@ -10,7 +10,8 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/BurntSushi/toml"
+	// internal - core
+	"github.com/sniperkit/snk.golang.toml/pkg/toml"
 )
 
 var (
